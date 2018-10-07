@@ -1,2 +1,4 @@
 # Portfolio
-Portfolio for Rocky Nguyen showcasing latest projects created using Bulma.
+Portfolio for Rocky Nguyen showcasing latest projects; template was created using Bulma.
+
+Live Demo: https://rockynhatnguyen.github.io/Portfolio/
